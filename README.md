@@ -1,9 +1,9 @@
-# How to start the peoject
+# How to start the project
 1. npm install 
     you need to run "npm install" first in terminal to install the dependencies
 
 2. cd mock-service 
-    cd mock-serverce folder 
+    cd mock-service folder 
 
 3. npm install
     install dependencies for server
