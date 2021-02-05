@@ -22,7 +22,14 @@
 4. Sort Desserts
 5. Reset the mutated data in graphql server
 
-
+# Tech stack
+React / React Hooks
+TypeScript 
+CSS (framework: Tachyons)
+React-Query / Apollo Client
+Jest (Unit and Integration Testing Library)
+React Testing Library
+GraphQL (Preferred: Apollo-Fastify / Apollo-express server)
 
 
 
