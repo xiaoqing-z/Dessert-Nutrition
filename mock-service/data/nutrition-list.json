@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "dessert": "Oreo",
+    "calories": 437,
+    "fat": 18,
+    "carbs": 63,
+    "protein": 4
+  },
+  {
+    "id": 1,
+    "dessert": "Nougat",
+    "calories": 308,
+    "fat": 19,
+    "carbs": 9,
+    "protein": 37
+  },
+  {
+    "id": 2,
+    "dessert": "Marshmallow",
+    "calories": 318,
+    "fat": 3,
+    "carbs": 81,
+    "protein": 2
+  },
+  {
+    "id": 3,
+    "dessert": "Lollipop",
+    "calories": 398,
+    "fat": 2,
+    "carbs": 98,
+    "protein": 0
+  },
+  {
+    "id": 4,
+    "dessert": "KitKat",
+    "calories": 518,
+    "fat": 26,
+    "carbs": 65,
+    "protein": 60
+  }
+]
