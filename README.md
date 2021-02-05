@@ -31,9 +31,9 @@ Jest (Unit and Integration Testing Library)
 React Testing Library
 GraphQL (Preferred: Apollo-Fastify / Apollo-express server)
 
-![image](https://github.com/xiaoqing-z/)
+![image](https://github.com/xiaoqing-z/Dessert-Nutrition/blob/main/add.png)
 
-![image](https://github.com/xiaoqing-z/)
+![image](https://github.com/xiaoqing-z/Dessert-Nutrition/blob/main/homepage.png)
 
 
 
