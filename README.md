@@ -18,7 +18,7 @@
 
 1. UI Table with selection 
 2. Add Dessert Feature  ( Mutation Query )  
-# note：（After submitting the new nutrition item, please refresh the page, you will see the newly added item  ）
+# note：（After submitting the new nutrition item, please refresh the page, you will see the new added item  ）
 3. Delete Dessert Feature ( Mutation Query )
 4. Sort Desserts
 5. Reset the mutated data in graphql server
