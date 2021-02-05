@@ -17,7 +17,8 @@
 # Key UI Element
 
 1. UI Table with selection 
-2. Add Dessert Feature  ( Mutation Query )  #note：（After submitting the new nutrition item, please refresh the page, you will see the newly added item  ）
+2. Add Dessert Feature  ( Mutation Query )  
+# note：（After submitting the new nutrition item, please refresh the page, you will see the newly added item  ）
 3. Delete Dessert Feature ( Mutation Query )
 4. Sort Desserts
 5. Reset the mutated data in graphql server
@@ -31,9 +32,9 @@ Jest (Unit and Integration Testing Library)
 React Testing Library
 GraphQL (Preferred: Apollo-Fastify / Apollo-express server)
 
-![image](https://github.com/xiaoqing-z/Dessert-Nutrition/blob/main/add.png)
-
 ![image](https://github.com/xiaoqing-z/Dessert-Nutrition/blob/main/homepage.png)
+
+![image](https://github.com/xiaoqing-z/Dessert-Nutrition/blob/main/add.png)
 
 
 
